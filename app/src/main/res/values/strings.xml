@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Slide Show</string>
+    <string name="playback_can_be_toggled_once_you_played_the_video">Playback can be toggled once you played the video</string>
+    <string name="you_can_seek_after_you_completely_watched_the_video">You can seek after you completely watched the video</string>
+    <string name="watch_the_entire_video_to_save">Please watch the entire video to save it. Thank you!</string>
+</resources>
